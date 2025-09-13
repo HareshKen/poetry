@@ -1,7 +1,5 @@
 # 🎭 Poetic Personality Chatbot
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HareshKen/poetry/blob/main/poetry_final.ipynb)
-
 An AI-powered chatbot that transforms ordinary messages into beautiful poetry using Google Gemini API and advanced prompt engineering techniques.
 
 ## ✨ Features
